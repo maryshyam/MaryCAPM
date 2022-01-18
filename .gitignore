@@ -3,6 +3,3 @@ gen/db/.env
 
 # added by cds deploy
 default-env.json
-node_modules
-gen
-
